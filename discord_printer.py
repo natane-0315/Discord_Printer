@@ -6,6 +6,7 @@ import datetime
 import fitz  # Java: Apache PDFBox や iText のようなPDF操作ライブラリ
 
 
+
 # ============================================================
 # 1. クラス定義：Java の "public class MyClient extends Client" に相当
 # ============================================================
